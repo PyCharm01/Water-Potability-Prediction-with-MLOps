@@ -1,7 +1,7 @@
-CI_MLOPS_PRO
+CI_MLOps_PRO
 ==============================
 
-MLPOS_PROJECT
+MLOps_PROJECT
 
 Project Organization
 ------------
